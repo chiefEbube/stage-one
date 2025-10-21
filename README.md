@@ -22,12 +22,12 @@ Follow these steps to get the project running on your local machine.
 
 1.  **Clone the Repository**:
     ```bash
-    git clone [https://github.com/chiefEbube/stage-one.git](https://github.com/chiefEbube/stage-one.git)
+    git clone https://github.com/chiefEbube/stage-one.git
     ```
 
 2.  **Navigate to the Project Directory**:
     ```bash
-    cd your-repo-name
+    cd stage-one
     ```
 
 3.  **Install Dependencies**:
